@@ -1,6 +1,6 @@
 # Context
 
-I developed this tool so me and my classmates could easily see the the tables and records in our databases as we made our Rails App. I found it very helpful for my project since it helped me quickly identify my column names and troubleshoot database problems.
+I developed this tool so my classmates and I could easily see the the tables and records in our databases as we made our Rails App. I found it very helpful for my project since it helped me quickly identify my column names and troubleshoot database problems.
 
 # Tables in Database
 
