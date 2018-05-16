@@ -2,7 +2,7 @@
 
 I developed this tool so me and my classmates could easily see the the tables and records in our databases as we made our Rails App. I found it very helpful for my project since it helped me quickly identify my column names and troubleshoot database problems.
 
-# Database Helper
+# Tables in Database
 
 Do you want an easy way to see your rails database? Now you can!
 
@@ -29,7 +29,7 @@ Following the instructions below will let you visually navigate your rails datab
 
 ## Step 3: Reconfigure **tables_controller.rb** controller
 
-6. Delete all the contents of the **tables_controller.rb**
+6. Delete all the contents of **tables_controller.rb**
 7. Copy-paste the following code into **tables_controller.rb**:
 
 ```ruby
@@ -62,7 +62,7 @@ end
 
 ## Step 4: Reconfigure the **all_tables.html.erb** view in app/views/tables
 
-8. Delete all the contents of the **all_tables.html.erb** in app/views/tables
+8. Delete all the contents of **all_tables.html.erb** in app/views/tables
 9. Copy-paste the following code into **all_tables.html.erb**:
 
 ```erb
@@ -157,7 +157,7 @@ end
 
 ## Step 5: Reconfigure the **table.html.erb** view in app/views/tables
 
-10. Delete all the contents of the **table.html.erb** in app/views/tables
+10. Delete all the contents of **table.html.erb** in app/views/tables
 11. Copy-paste the following code into **table.html.erb**:
 
 ```erb
