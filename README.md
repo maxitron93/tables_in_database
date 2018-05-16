@@ -1,4 +1,8 @@
-# Tables in Database
+# Context
+
+I developed this tool so me and my classmates could easily see the the tables and records in our databases as we made our Rails App. I found it very helpful for my project since it helped me quickly identify my column names and troubleshoot database problems.
+
+# Database Helper
 
 Do you want an easy way to see your rails database? Now you can!
 
@@ -106,7 +110,7 @@ end
 
     .one-table {
       display: inline-block;
-      width: 21.7%;
+      width: 21.5%;
       margin: 10px 1.5%;
       padding: 0px;
       vertical-align: top;
